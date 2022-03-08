@@ -109,6 +109,17 @@ namespace Vjezbe2
                         {
                             Console.WriteLine("Unesite ime glumca za pretragu: ");
                             string glumac = Console.ReadLine();
+                            foreach(Film film in Film.Filmovi)
+                            {
+                                foreach(Glumac item in film.Glumci)
+                                {
+                                    if(item.Prezime.ToLower() == glumac.ToLower())
+                                    {
+                                        Console.WriteLine(film.Ispis());
+                                        break;
+                                    }
+                                }
+                            }
                             break;
                         }
                     default:
