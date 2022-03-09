@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Vjezbe2.Models;
 
-namespace Vjezbe2
+namespace GlumciIFilmoviTomas
 {
     internal class Program
     {
