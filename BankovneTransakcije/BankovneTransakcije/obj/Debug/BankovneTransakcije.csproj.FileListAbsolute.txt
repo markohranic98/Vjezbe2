@@ -1,0 +1,8 @@
+C:\Users\Marko\source\repos\Vjezbe2\BankovneTransakcije\BankovneTransakcije\bin\Debug\BankovneTransakcije.exe.config
+C:\Users\Marko\source\repos\Vjezbe2\BankovneTransakcije\BankovneTransakcije\bin\Debug\BankovneTransakcije.exe
+C:\Users\Marko\source\repos\Vjezbe2\BankovneTransakcije\BankovneTransakcije\bin\Debug\BankovneTransakcije.pdb
+C:\Users\Marko\source\repos\Vjezbe2\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe2\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\Vjezbe2\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe2\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.exe
+C:\Users\Marko\source\repos\Vjezbe2\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.pdb
