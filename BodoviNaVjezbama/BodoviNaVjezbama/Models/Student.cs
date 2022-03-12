@@ -32,7 +32,7 @@ namespace BodoviNaVjezbama.Models
         public void DodajBodove(Vjezbe vjezbe)
         {
             this.bodovi += vjezbe.BodoviNaVjezbama;
-            this.PohadaneVjezbe.Add(vjezbe);
+            this.PohadaneVjezbe.Add(vjezbe); // ovo ne koristim al za svaki slucaj moze se vadit podatak koliko je student dobio bodova na svakoj vjezbi
         }
     }
 }
