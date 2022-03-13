@@ -1,0 +1,8 @@
+C:\Users\Marko\source\repos\Vjezbe2\KucnaKnjiznica1\KucnaKnjiznica1\bin\Debug\KucnaKnjiznica1.exe.config
+C:\Users\Marko\source\repos\Vjezbe2\KucnaKnjiznica1\KucnaKnjiznica1\bin\Debug\KucnaKnjiznica1.exe
+C:\Users\Marko\source\repos\Vjezbe2\KucnaKnjiznica1\KucnaKnjiznica1\bin\Debug\KucnaKnjiznica1.pdb
+C:\Users\Marko\source\repos\Vjezbe2\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe2\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\Vjezbe2\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe2\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.exe
+C:\Users\Marko\source\repos\Vjezbe2\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.pdb
