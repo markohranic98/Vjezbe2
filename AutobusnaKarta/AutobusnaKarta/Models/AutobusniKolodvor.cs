@@ -25,6 +25,7 @@ namespace AutobusnaKarta.Models
                 "Varaždin;Virovitica;100",
                 "Varaždin;Osijek;220"
             };
+            //this.linije.Add(new Linija("Varazdin","Novi Marof",22))
 
         }
         private double IzracunajCijenu(int udaljenost,string tipKarte)
