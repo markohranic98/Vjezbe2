@@ -1,0 +1,8 @@
+C:\Users\Marko\source\repos\Vjezbe2\HotelskaSoba\HotelskaSoba\bin\Debug\HotelskaSoba.exe.config
+C:\Users\Marko\source\repos\Vjezbe2\HotelskaSoba\HotelskaSoba\bin\Debug\HotelskaSoba.exe
+C:\Users\Marko\source\repos\Vjezbe2\HotelskaSoba\HotelskaSoba\bin\Debug\HotelskaSoba.pdb
+C:\Users\Marko\source\repos\Vjezbe2\HotelskaSoba\HotelskaSoba\obj\Debug\HotelskaSoba.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe2\HotelskaSoba\HotelskaSoba\obj\Debug\HotelskaSoba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\Vjezbe2\HotelskaSoba\HotelskaSoba\obj\Debug\HotelskaSoba.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe2\HotelskaSoba\HotelskaSoba\obj\Debug\HotelskaSoba.exe
+C:\Users\Marko\source\repos\Vjezbe2\HotelskaSoba\HotelskaSoba\obj\Debug\HotelskaSoba.pdb

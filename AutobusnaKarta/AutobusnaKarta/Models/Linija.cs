@@ -12,26 +12,11 @@ namespace AutobusnaKarta.Models
         public string Odrediste { get; set; }
         public int Udaljenost { get; set; }
 
-        public static List<Linija> Linije = new List<Linija>(); // ovo mozda ne treba tu
-
-        public Linija() //prazan ctor
-        { 
-        }
-
-        public Linija(string Polaziste,string Odrediste,int Udaljenost)
+        public Linija(string polaziste, string odrediste, int udaljenost)
         {
-            this.Odrediste = Odrediste;
-            this.Polaziste = Polaziste;
-            this.Udaljenost = Udaljenost;
-            Linije.Add(this);
-        }
-        
-        public void Ispisi() // ova metoda ne treba, to je bilo testing
-        {
-            foreach (Linija item in Linije)
-            {
-                Console.WriteLine(item.Odrediste + " " + item.Udaljenost);
-            }
+            this.Polaziste = polaziste;
+            this.Odrediste = odrediste; 
+            this.Udaljenost = udaljenost;    
         }
 
     }

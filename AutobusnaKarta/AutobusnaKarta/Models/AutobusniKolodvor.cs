@@ -8,75 +8,46 @@ namespace AutobusnaKarta.Models
 {
     public class AutobusniKolodvor
     {
-
-        private List<string> linije;
-      
+        private List<Linija> linije;
 
         public AutobusniKolodvor()
         {
-            linije = new List<string>
-            {
-                "Varaždin;Zagreb;80",
-                "Varaždin;Čakovec;20",
-                "Varaždin;Slavonski Brod;240",
-                "Varaždin;Krapina;40",
-                "Varaždin;Novi Marof;22",
-                "Varaždin;Koprivnica;45",
-                "Varaždin;Virovitica;100",
-                "Varaždin;Osijek;220"
-            };
-            //this.linije.Add(new Linija("Varazdin","Novi Marof",22))
-
+            linije = new List<Linija>();
+            this.linije.Add(new Linija("Varazdin","Zagreb",80));
+            this.linije.Add(new Linija("Varazdin","Cakovec",20));
+            this.linije.Add(new Linija("Varazdin","Slavonski Brod",240));
+            this.linije.Add(new Linija("Varazdin","Krapina",40));
+            this.linije.Add(new Linija("Varazdin","Novi Marof",22));
+            this.linije.Add(new Linija("Varazdin","Koprivnica",45));
+            this.linije.Add(new Linija("Varazdin","Virovitica",100));
+            this.linije.Add(new Linija("Varazdin","Osijek",220));
         }
+
         private double IzracunajCijenu(int udaljenost,string tipKarte)
         {
-            double cijenaKarte = 0;
-            Console.WriteLine(tipKarte);
-            switch (tipKarte.ToLower())
+            switch (tipKarte)
             {
-                case "regularna":
+                case "Povratna":
                     {
-                        cijenaKarte = 1.5 * udaljenost;
-                        break;
+                        return udaljenost * 2;
                     }
-                case "studentska":
+                case "Studentska":
                     {
-                        cijenaKarte = 1.2 * udaljenost;
-                        break;
+                        return udaljenost * 1.2;
                     }
-                case "povratna":
+                case "Regularna":
                     {
-                        cijenaKarte = 2 * udaljenost;
-                        break;
+                        return udaljenost * 1.5;
                     }
                 default:
-                    Console.WriteLine("Zajeba si sa tipom karte");
-                    break;
+                    return 0;
             }
-
-            return cijenaKarte;
         }
 
-        public string KupiKartu(string polazište, string odredište, string tipkarte)
+        public string KupiKartu(string polaziste,string odrediste, string tipKarte)
         {
-            Console.WriteLine("TU SAM");
-            int udaljenost = 0;
-            //trebamo izracunat udaljenost tu
-            foreach  (string item in linije)
-            {
-                string[] polje = item.Split(';');
-                if(polje[1].ToLower() == odredište.ToLower())
-                {
-                    udaljenost = int.Parse(polje[2]);
-                    break;
-                }
-            }
-
-            double iznos = IzracunajCijenu(udaljenost, tipkarte);
-
-            string ispis = "Cijena za kartu tipa "+tipkarte+" , na relaciji "+ polazište + " - "+odredište + " iznosi: " +iznos;
-
-            return ispis;
+            int udaljenost = linije.Find(x => (x.Polaziste == polaziste && x.Odrediste == odrediste)).Udaljenost;
+            return "Cijena za kartu tipa " + tipKarte + ", na relaciji " + polaziste + "-" + odrediste + " iznosi " + IzracunajCijenu(udaljenost, tipKarte);
         }
     }
 }

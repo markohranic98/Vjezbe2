@@ -28,7 +28,6 @@ namespace Glasanje.Models
                 Console.WriteLine("vec je glasao");
                 return;
             }
-            Console.WriteLine("tu sam");
             this.glasovi.Add(new Glas(oib, odabir));
             return;
         }
