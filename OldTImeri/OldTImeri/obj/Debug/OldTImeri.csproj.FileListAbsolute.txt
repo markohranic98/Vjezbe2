@@ -1,0 +1,8 @@
+C:\Users\Marko\source\repos\Vjezbe2\OldTImeri\OldTImeri\bin\Debug\OldTImeri.exe.config
+C:\Users\Marko\source\repos\Vjezbe2\OldTImeri\OldTImeri\bin\Debug\OldTImeri.exe
+C:\Users\Marko\source\repos\Vjezbe2\OldTImeri\OldTImeri\bin\Debug\OldTImeri.pdb
+C:\Users\Marko\source\repos\Vjezbe2\OldTImeri\OldTImeri\obj\Debug\OldTImeri.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe2\OldTImeri\OldTImeri\obj\Debug\OldTImeri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\Vjezbe2\OldTImeri\OldTImeri\obj\Debug\OldTImeri.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe2\OldTImeri\OldTImeri\obj\Debug\OldTImeri.exe
+C:\Users\Marko\source\repos\Vjezbe2\OldTImeri\OldTImeri\obj\Debug\OldTImeri.pdb
