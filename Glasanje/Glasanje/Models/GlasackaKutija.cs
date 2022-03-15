@@ -17,8 +17,7 @@ namespace Glasanje.Models
 
         private bool VecGlasao(string oib)
         {
-            // enjoy motherfuckers UwU
-            return glasovi.Count != 0 ? (glasovi.Find(x => x.OIB == oib).OIB == oib ? true : false) : false;
+            return glasovi.Find(x => x.OIB == oib) != null ? true : false;
         }
 
         public void Glasaj(string oib, string odabir)
