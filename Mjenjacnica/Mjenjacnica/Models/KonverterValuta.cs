@@ -21,6 +21,9 @@ namespace Mjenjacnica.Models
             //        break;
             //    }
             //}
+            
+
+            //nasli ste se na ovom dijelu koda nakon pokretanja jer ste krivo unijeli oznaku valute ()
             conversionRate = lista.ListaTecajeva.Find(x => x.Kod == odredisnaValuta).ConversionRate;
             return iznos / conversionRate;
         }
