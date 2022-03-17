@@ -1,0 +1,8 @@
+C:\Users\Marko\source\repos\Vjezbe2\Senzori1\Senzori1\bin\Debug\Senzori1.exe.config
+C:\Users\Marko\source\repos\Vjezbe2\Senzori1\Senzori1\bin\Debug\Senzori1.exe
+C:\Users\Marko\source\repos\Vjezbe2\Senzori1\Senzori1\bin\Debug\Senzori1.pdb
+C:\Users\Marko\source\repos\Vjezbe2\Senzori1\Senzori1\obj\Debug\Senzori1.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe2\Senzori1\Senzori1\obj\Debug\Senzori1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\Vjezbe2\Senzori1\Senzori1\obj\Debug\Senzori1.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe2\Senzori1\Senzori1\obj\Debug\Senzori1.exe
+C:\Users\Marko\source\repos\Vjezbe2\Senzori1\Senzori1\obj\Debug\Senzori1.pdb
