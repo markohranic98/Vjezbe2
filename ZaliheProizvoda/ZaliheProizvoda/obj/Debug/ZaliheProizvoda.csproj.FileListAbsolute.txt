@@ -1,0 +1,8 @@
+C:\Users\Marko\source\repos\Vjezbe2\ZaliheProizvoda\ZaliheProizvoda\bin\Debug\ZaliheProizvoda.exe.config
+C:\Users\Marko\source\repos\Vjezbe2\ZaliheProizvoda\ZaliheProizvoda\bin\Debug\ZaliheProizvoda.exe
+C:\Users\Marko\source\repos\Vjezbe2\ZaliheProizvoda\ZaliheProizvoda\bin\Debug\ZaliheProizvoda.pdb
+C:\Users\Marko\source\repos\Vjezbe2\ZaliheProizvoda\ZaliheProizvoda\obj\Debug\ZaliheProizvoda.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe2\ZaliheProizvoda\ZaliheProizvoda\obj\Debug\ZaliheProizvoda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\Vjezbe2\ZaliheProizvoda\ZaliheProizvoda\obj\Debug\ZaliheProizvoda.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe2\ZaliheProizvoda\ZaliheProizvoda\obj\Debug\ZaliheProizvoda.exe
+C:\Users\Marko\source\repos\Vjezbe2\ZaliheProizvoda\ZaliheProizvoda\obj\Debug\ZaliheProizvoda.pdb
