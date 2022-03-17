@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A2A6DFF8-3769-451A-AFDF-E7AE4FAED54A}</ProjectGuid>
+    <ProjectGuid>{71F82AE7-4B61-4C8C-9C1B-41C91BCBE7A4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TemperaturaUDanu</RootNamespace>
-    <AssemblyName>TemperaturaUDanu</AssemblyName>
+    <RootNamespace>ZaliheProizvoda</RootNamespace>
+    <AssemblyName>ZaliheProizvoda</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\DataParser.cs" />
-    <Compile Include="Models\Reporter.cs" />
-    <Compile Include="Models\Sensor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

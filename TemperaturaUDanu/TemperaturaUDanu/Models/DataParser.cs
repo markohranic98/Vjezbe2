@@ -8,12 +8,13 @@ namespace TemperaturaUDanu.Models
 {
     internal class DataParser
     {
-        public List<double> Parse(string sensorData)
+        public List<double> Parse()
         {
             Sensor sensor = new Sensor();
             double[] refinedData = Array.ConvertAll(sensor.GetData().Split(';'), Double.Parse);
-            
-            return ;
+            List<double> data = new List<double>();
+            data.AddRange(refinedData);
+            return data;
         }
     }
 }

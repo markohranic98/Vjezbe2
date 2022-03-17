@@ -1,0 +1,8 @@
+C:\Users\Marko\source\repos\Vjezbe2\TemperaturaUDanu\TemperaturaUDanu\bin\Debug\TemperaturaUDanu.exe.config
+C:\Users\Marko\source\repos\Vjezbe2\TemperaturaUDanu\TemperaturaUDanu\bin\Debug\TemperaturaUDanu.exe
+C:\Users\Marko\source\repos\Vjezbe2\TemperaturaUDanu\TemperaturaUDanu\bin\Debug\TemperaturaUDanu.pdb
+C:\Users\Marko\source\repos\Vjezbe2\TemperaturaUDanu\TemperaturaUDanu\obj\Debug\TemperaturaUDanu.csproj.AssemblyReference.cache
+C:\Users\Marko\source\repos\Vjezbe2\TemperaturaUDanu\TemperaturaUDanu\obj\Debug\TemperaturaUDanu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\source\repos\Vjezbe2\TemperaturaUDanu\TemperaturaUDanu\obj\Debug\TemperaturaUDanu.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\Vjezbe2\TemperaturaUDanu\TemperaturaUDanu\obj\Debug\TemperaturaUDanu.exe
+C:\Users\Marko\source\repos\Vjezbe2\TemperaturaUDanu\TemperaturaUDanu\obj\Debug\TemperaturaUDanu.pdb

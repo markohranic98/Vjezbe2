@@ -12,7 +12,10 @@ namespace TemperaturaUDanu
         static void Main(string[] args)
         {
             Console.WriteLine("Temperature report:");
-
+            Reporter reporter = new Reporter();
+            DataParser parser = new DataParser();
+            Console.WriteLine(reporter.GenerateReport(parser.Parse()));
+            Console.ReadLine();
         }
     }
 }
